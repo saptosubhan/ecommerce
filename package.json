@@ -16,7 +16,7 @@
     "mocha": "^2.4.5",
     "moment": "^2.13.0",
     "mongodb": "^2.1.4",
-    "mongoose": "^4.3.7",
+    "mongoose": "^5.7.12",
     "morgan": "~1.6.1",
     "request": "^2.72.0",
     "serve-favicon": "~2.3.0",
